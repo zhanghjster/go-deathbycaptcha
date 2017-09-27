@@ -2,7 +2,7 @@ go client for <http://www.deathbycaptcha.com/>
 
 ### Install
 
-go get github.com/zhanghjster/go-deathbycaptcher
+go get github.com/zhanghjster/go-deathbycaptcha
 
 ### Usage
 
