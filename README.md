@@ -1,10 +1,10 @@
 go client for <http://www.deathbycaptcha.com/>
 
-##### install 
+### Install
 
 go get github.com/zhanghjster/go-deathbycaptcher
 
-##### usage
+### Usage
 
 ```go
 import (
